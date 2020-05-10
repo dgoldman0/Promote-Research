@@ -21,7 +21,15 @@ Every researcher with a valid ORCID identification will be able to register and 
 
 ## Tipping
 
-The next option for receiving ACW is through tipping. Users will be able recommend a research item to their network. Doing so costs two ACW, one of which will go to the author, and the other will go to a pool. A consensus algorithm will be used to distribute the pool back to tippers.
+The next option for receiving ACW is through tipping. The exact mechanism has yet to be worked out.
+
+### Approach One
+
+Users will be able recommend a research item to their network. Doing so costs two ACW, one of which will go to the author, and the other will go to a pool. A consensus algorithm will be used to distribute the pool back to tippers. One issue with this system is that there can be issues with who gets paid what, when it comes to multi-author papers. Financial incentives for publication can also result in conflcits of interest.
+
+### Approach Two
+
+An aternative option is to allow users to tip the authors directly. In this way, there is no conflcit of interest for any given paper and no need to create a complex legal agreeement for each paper. If a person likes a paper, or likes the work of a given author, they can send a tip to whatever author they want. 
 
 # An Ecosystem for Academics
 
